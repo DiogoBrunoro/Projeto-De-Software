@@ -12,3 +12,6 @@ O objetivo é **organizar e consolidar conhecimentos**, apoiar o **aprendizado c
 - Fornecer uma **base de conhecimento acessível** para a comunidade.  
 
 ---
+
+[Análise sobre artigo referente a Microserviços, o que é, vantagens e desvantagens](Resenha_Microservices_.pdf)
+ 
