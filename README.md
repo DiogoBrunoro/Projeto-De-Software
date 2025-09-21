@@ -15,5 +15,7 @@ O objetivo é **organizar e consolidar conhecimentos**, apoiar o **aprendizado c
 
 - [Análise sobre artigo referente a Microserviços, o que é, vantagens e desvantagens](Resenha__Microservices_.pdf)
 - [Análise sobre artigo No Silver Bullet](Resenha__No_Silver_Bullet_.pdf)
--  [Análise sobre artigo On the Criteria To Be Used in Decomposing Systems into Modules](Resenha__Criteria_for_Modularization_.pdf)
+- [Análise sobre artigo On the Criteria To Be Used in Decomposing Systems into Modules](Resenha__Criteria_for_Modularization_.pdf)
+- [Análise sobre artigo Software Architecture: A Roadmap](Resenha__Software_Architecture__A_Roadmap_.pdf
+)
  
