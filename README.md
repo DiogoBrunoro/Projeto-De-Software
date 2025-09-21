@@ -17,5 +17,5 @@ O objetivo é **organizar e consolidar conhecimentos**, apoiar o **aprendizado c
 - [Análise sobre artigo No Silver Bullet](Resenha__No_Silver_Bullet_.pdf)
 - [Análise sobre artigo On the Criteria To Be Used in Decomposing Systems into Modules](Resenha__Criteria_for_Modularization_.pdf)
 - [Análise sobre artigo Software Architecture: A Roadmap](Resenha__Software_Architecture__A_Roadmap_.pdf)
-- [[Análise sobre artigo Hotspot_Patterns](Resenha__Hotspot_Patterns_.pdf)
+- [Análise sobre artigo Hotspot_Patterns](Resenha__Hotspot_Patterns_.pdf)
  
