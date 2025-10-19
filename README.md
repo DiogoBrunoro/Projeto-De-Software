@@ -21,4 +21,4 @@ O objetivo é **organizar e consolidar conhecimentos**, apoiar o **aprendizado c
 - [Análise sobre os capítulos 4, 5 e 6 do artigo Strategic_Design_and_Domain_Driven_Design](Resenha_Capítulos_4_5_e_6__Strategic_Design_and_Domain_Driven_Design_.pdf)
 - [Análise sobre artigo Managing_Technical_Debt](Resenha__Managing_Technical_Debt_.pdf)
 - [Análise sobre artigo Documenting_Architecture_Decisions ](Resenha_Documenting_Architecture_Decisions.pdf)
-- [Análise sobre artigo Hexagonal architecture]((Resenha__Hexagonal_architecture_.pdf)
+- [Análise sobre artigo Hexagonal architecture](Resenha__Hexagonal_architecture_.pdf)
